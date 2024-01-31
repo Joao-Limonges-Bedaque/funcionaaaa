@@ -1,9 +1,9 @@
 <?php
 
-echo "<h1>Olá Mundo</h1>";
+echo "<p>Código :</p> <h1>Olá Mundo</h1>";
 
 $resposta = "Olá código";
 
 echo "<br><br>";
 
-echo "<h2>".$Resposta."</h2>";
+echo "<p>Mundo :</p> <h2>".$Resposta."</h2>";
