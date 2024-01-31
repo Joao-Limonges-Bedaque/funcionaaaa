@@ -6,4 +6,4 @@ $resposta = "Olá código";
 
 echo "<br><br>";
 
-echo "<p>Mundo :</p> <h2>".$Resposta."</h2>";
+echo "<p>Mundo :</p> <h2>".$resposta."</h2>";
